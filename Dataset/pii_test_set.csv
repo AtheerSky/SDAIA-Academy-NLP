@@ -1,0 +1,61 @@
+﻿case_id,pii_type,text,expected_value
+PII001,NATIONAL_ID,National ID:1719601005,1719601005
+PII002,NATIONAL_ID,رقم السجل المدني 2617857762 للمراجعة,2617857762
+PII003,NATIONAL_ID,رقم الهوية 2441855345,2441855345
+PII004,PHONE,جوالي:057 200 3171 شكرا,057 200 3171
+PII005,NATIONAL_ID,Applicant ID 2141579007 attached,2141579007
+PII006,PHONE,تواصلوا معي 050 1183 162 وسأرد,050 1183 162
+PII007,PHONE,WhatsApp: 0571814781,0571814781
+PII008,PHONE,Call me on 0533113879,0533113879
+PII009,PHONE,رقم التواصل 059 707 1248,059 707 1248
+PII010,NATIONAL_ID,رقم الهوية 2337969683,2337969683
+PII011,NATIONAL_ID,هويتي 1412250399،,1412250399
+PII012,EMAIL,Email khalid849@mail.example.sa for the receipt,khalid849@mail.example.sa
+PII013,EMAIL,Contact khalid655@example.test,khalid655@example.test
+PII014,EMAIL,Contact Noura434@example.test,Noura434@example.test
+PII015,NATIONAL_ID,هوية المراجع 2879091655,2879091655
+PII016,EMAIL,write to me: Noura531@example.org,Noura531@example.org
+PII017,PHONE,واتساب 0551184873.,0551184873
+PII018,EMAIL,أرسلوا الرد إلى lina_m925@mail.example.sa,lina_m925@mail.example.sa
+PII019,NATIONAL_ID,National ID:1809124250,1809124250
+PII020,PHONE,جوالي:0507238625 شكرا,0507238625
+PII021,PHONE,WhatsApp: 057-964-8447,057-964-8447
+PII022,EMAIL,بريدي maha379@example.test,maha379@example.test
+PII023,PHONE,Please reach me at 053-097-1002 tomorrow,053-097-1002
+PII024,PHONE,تواصلوا معي 0539762600 وسأرد,0539762600
+PII025,EMAIL,للتواصل Noura559@example.test شكرا,Noura559@example.test
+PII026,NATIONAL_ID,Applicant ID 2204966889 attached,2204966889
+PII027,PHONE,رقم التواصل 0545333147,0545333147
+PII028,EMAIL,بريدي sara28@example.test,sara28@example.test
+PII029,NATIONAL_ID,ID number 2139455638.,2139455638
+PII030,EMAIL,بريدي maha285@svc.example.sa,maha285@svc.example.sa
+PII031,NATIONAL_ID,my iqama/ID is 2686940944 please check,2686940944
+PII032,PHONE,اتصل بي على 0589328804 بعد الظهر,0589328804
+PII033,NATIONAL_ID,ID number 1794551422.,1794551422
+PII034,PHONE,contact number 0507056148 (evening only),0507056148
+PII035,NATIONAL_ID,my iqama/ID is 1049428110 please check,1049428110
+PII036,NATIONAL_ID,هويتي 2345325248،,2345325248
+PII037,NATIONAL_ID,رقم السجل المدني 1768160106 للمراجعة,1768160106
+PII038,PHONE,اتصل بي على 051 075 6900 بعد الظهر,051 075 6900
+PII039,EMAIL,write to me: maha291@mail.example.sa,maha291@mail.example.sa
+PII040,NATIONAL_ID,رقم الهوية 2915521722,2915521722
+PII041,EMAIL,أرسلوا الرد إلى ali+bayan605@svc.example.sa,ali+bayan605@svc.example.sa
+PII042,EMAIL,Email maha750@svc.example.sa for the receipt,maha750@svc.example.sa
+PII043,EMAIL,Email maha757@example.org for the receipt,maha757@example.org
+PII044,EMAIL,Contact ali+bayan892@example.test,ali+bayan892@example.test
+PII045,PHONE,Please reach me at 0558069983 tomorrow,0558069983
+PII046,EMAIL,write to me: maha968@svc.example.sa,maha968@svc.example.sa
+PII047,NATIONAL_ID,ID number 2868864684.,2868864684
+PII048,PHONE,contact number 051 6477 863 (evening only),051 6477 863
+PII049,PHONE,"my mobile is 059-967-8491, thanks",059-967-8491
+PII050,EMAIL,أرسلوا الرد إلى Noura360@example.org,Noura360@example.org
+PII051,NATIONAL_ID,National ID:2447317914,2447317914
+PII052,NATIONAL_ID,هويتي 2607918633،,2607918633
+PII053,PHONE,Call me on 052-220-0386,052-220-0386
+PII054,NATIONAL_ID,هوية المراجع 2812738955,2812738955
+PII055,EMAIL,للتواصل Noura679@example.test شكرا,Noura679@example.test
+PII056,EMAIL,Contact omar375@mail.example.sa,omar375@mail.example.sa
+PII057,EMAIL,بريدي fahad.q760@example.test,fahad.q760@example.test
+PII058,PHONE,واتساب 056 712 3431.,056 712 3431
+PII059,PHONE,"my mobile is 0581135119, thanks",0581135119
+PII060,EMAIL,للتواصل lina_m338@example.org شكرا,lina_m338@example.org

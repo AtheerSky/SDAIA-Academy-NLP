@@ -1,0 +1,201 @@
+﻿feedback_id,citizen_id,text,language,dialect_region,topic,sentiment,channel,city,service_entity,created_day
+BF05091,C01335,مرة أخرى، أريد تغيير موعدي يوم الجمعة. شكرا مقدما.,ar,MSA,appointments,positive,whatsapp,الدمام,appointments,220
+BF01164,C01345,I missed my connection because the schedule shown was out of date. This is not acceptable. 😡,en,English,transport,negative,whatsapp,Riyadh,transport,80
+BF00918,C00371,تذكير: يا أخي ما وصلني المبلغ المسترد 200 ريال بعد مرور 4 أيام 🙂 رقمي 0535077726???,ar,Levantine,billing,neutral,mobile_app,الرياض,billing,68
+BF05630,C02563,مرة أخرى؟ كل ما في الثلاجة يفسد ولم يعطنا أحد موعدا. أرجو إصلاح هذا. 😤,ar,MSA,outage,negative,web_form,الدمام,waste,236
+BF03709,C03152,Question: The trip took 61 minutes instead of twenty,en,English,transport,neutral,web_form,Dammam,appointments,174
+BF05073,C02979,خبر جيد: تم خصم 75 ريال مرتين من فاتورتي، ومن جهة أخرى، جاء فريق الإصلاح وغادر دون إصلاح. شكرا، تم حل الموضوع. 👍,ar,MSA,billing,positive,mobile_app,جدة,billing,219
+BF06579,C01809,The garbage was not collected today. This is not acceptable. 😤 my ID 1258363872,en,English,waste,negative,whatsapp,Jeddah,waste,265
+BF09052,C02872,Really  frustrated. I need help with my request. This is not acceptable. !!!,en,English,appointments,negative,web_form,Riyadh,account_access,340
+BF00811,C02376,محبط فعلا. أريد تغيير موعدي يوم الاثنين. أـــرجو إصلاح هذا. 😤,ar,MSA,appointments,negative,web_form,الدمام,account_access,62
+BF06013,C00091,للتوثيق، يعمل على الحاسوب ومش بيشتغل على الجوال، وأيضا يتم إخراجي من الخدمة فور فتحها. أخبروني.,ar,Egyptian,digital_services,neutral,web_form,الدمام,digital_services,248
+BF09312,C00539,Question: The earliest date offered is more than 5 weeks away 🙂,en,English,appointments,neutral,mobile_app,Jeddah,appointments,348
+BF04619,C00089,"Honestly, The earliest date offered is more than 9 weeks away. Reporting this for the third time. !!!",en,English,appointments,negative,whatsapp,Dammam,appointments,206
+BF11475,C02439,تحديث: فقد المبنى كله الخدمة عند الرابعة عصرا. شكرا، تم حل الموضوع. 👍,ar,MSA,outage,negative,whatsapp,الرياض,outage,364
+BF09914,C00146,Follow-up:  The page freezes at the final step. Thanks in advance. 🙂,en,English,digital_services,neutral,web_form,Riyadh,digital_services,364
+BF11990,C03166,خرج القيمة من حسابي يوم الثلاثاء لكن النظام يظهره غير مسدد. هذا غير مقبول. ؟؟؟,ar,MSA,billing,neutral,mobile_app,جدة,billing,364
+BF11977,C03146,"good news: they kept me waiting 10 hours even though i had a fixed time. resolved now, thank you. !",en,English,appointments,positive,mobile_app,Jeddah,appointments,364
+BF03374,C01197,مرة أخرى؟ يا جماعة القطط تمزق الأكياس لأن الحاوية ممتلئة، وأيضا انقطعت المياه من 4 ساعات 😞,ar,Gulf,waste,negative,mobile_app,الدمام,waste,164
+BF03547,C03060,"the metro train was delayed again. all good now, thanks. 😊 contact: 053 016 6907",en,English,transport,positive,mobile_app,Jeddah,transport,169
+BF05835,C02305,"The ticket machine does not accept cards. Also, the one-time code expired before I could enter it. Appreciate the quick help! 👍 my number 0560952572",en,English,transport,positive,mobile_app,Dammam,transport,242
+BF03799,C00402,سؤال: لا أستطيع تسجيل الدخول إلى حسابي رقم هويتي 1488006856,ar,MSA,account_access,neutral,whatsapp,جدة,digital_services,178
+BF03356,C02503,مرة أخرى، ما تم جمع النفايات هذا الصباح. هذا غير مقبول. 😞,ar,Levantine,waste,negative,web_form,الدمام,waste,163
+BF09005,C02536,I booked for two people but only one is showing 😞???,en,English,appointments,negative,whatsapp,Jeddah,appointments,339
+BF10536,C01086,تذكير: معلومات المسار خاطئة في التطبيق، و الصفحة تتجمد في الخطوة الأخيرة وربي. تم الحل، شكرا لكم. 😊,ar,Gulf,transport,positive,mobile_app,الرياض,transport,364
+BF01539,C00310,"Quick note: I can't log in to my account. On top of that, there are no available appointments this week. Thanks in advance.",en,English,account_access,neutral,mobile_app,Riyadh,account_access,96
+BF05049,C01354,سؤال: تظهر شاشة بيضاء بعد الضغط على إرسال ده مش معقول. أرجو الإفادة.,ar,Egyptian,digital_services,neutral,web_form,الدمام,digital_services,219
+BF05914,C00412,"Follow-up: Stray cats are tearing open the rubbish because the bin is full. Separately, we had to order a tanker because the taps are dry. Thanks in advance.",en,English,waste,neutral,whatsapp,Riyadh,waste,245
+BF11103,C01868,يا جماعة لم يتغير شيء من رسالتي الأخيرة الموضوع يخص الدفع. 😤,ar,Gulf,billing,negative,web_form,جدة,billing,364
+BF06411,C03055,"How long does a building authorisation take to be approved?. Also, the card payment went through yet I received an overdue notice. Please advise. 🙂",en,English,permits,neutral,web_form,Dammam,permits,259
+BF04401,C02327,Please look into my case. Appreciate the quick help! 🙏,en,English,waste,positive,mobile_app,Jeddah,waste,198
+BF04498,C02648,بصراحة، ياخي حجزت لشخصين ويظهر شخص واحد فقط. أرجو إصلاح هذا. ؟؟؟,ar,Gulf,appointments,negative,whatsapp,الرياض,appointments,201
+BF03795,C03019,"Reminder:  My visit was scrapped without notice. Separately, I changed my phone and now I cannot get into anything. Thank you, it was sorted out. !",en,English,appointments,positive,whatsapp,Dammam,appointments,177
+BF09867,C00036,محبط فعلا. تظهر رسالة خطأ في البوابة عند إرسال النموذج الله يعافيكم 😤,ar,Gulf,digital_services,negative,mobile_app,جدة,digital_services,364
+BF01750,C02499,Quick note: The lights flicker every evening around 10:30 AM. Let me know. #help,en,English,outage,neutral,web_form,Jeddah,outage,104
+BF00190,C00319,Unacceptable: The inspector visited As Sulaimaniyah and I have heard nothing since. Reporting this for the third time. 😤,en,English,permits,negative,mobile_app,Riyadh,permits,19
+BF05396,C03013,Again?  When will the service be restored? Reporting this for the third time. !!!,en,English,outage,negative,mobile_app,Riyadh,outage,229
+BF07665,C03082,سؤال: وّاِلله أبغى نّسخة من إِيصال السداد لشهر مِارَس,ar,Gulf,billing,neutral,web_form,جدة,billing,297
+BF06391,C01990,Quick note: Please explain the extra fees on my invoice. Please advise.,en,English,billing,neutral,whatsapp,Riyadh,billing,259
+BF09308,C03141,Unacceptable: There is no shelter at the stop !!!,en,English,transport,negative,mobile_app,Jeddah,appointments,347
+BF10777,C01368,تذكير: لا توجد مواعيد متاحة هذا الأسبوع. أرجو الإفادة.,ar,MSA,appointments,neutral,web_form,الرياض,appointments,364
+BF02046,C02840,ملاحظة سريعة: كان التأمين المسترد مستحقا في أغسطس الماضي وما زلت أنتظر، بالإضافة إلى ذلك، يظهر رمز الخطأ E-2228 على الشاشة,ar,MSA,billing,positive,whatsapp,الدمام,billing,115
+BF11699,C02806,Reminder:  The bins are full to the brim near the park. This is not acceptable. 😤,en,English,waste,negative,web_form,Riyadh,waste,364
+BF07397,C01590,Good news: Nobody can tell me why my access was suspended on Saturday. Appreciate the quick help! 🙏,en,English,account_access,positive,web_form,Dammam,account_access,290
+BF09467,C02063,"Follow-up: I need a copy of my payment receipt for July. Also, my authorisation application is still pending. This is not acceptable. 😡 contact: 0514601122",en,English,billing,negative,web_form,Jeddah,billing,352
+BF06641,C01829,بصراحة،  الأكياس متراكمة عند الزاوية من الجمعة ما يصير كذا 😡,ar,Gulf,waste,negative,whatsapp,الدمام,waste,267
+BF10198,C00577,Follow-up: The card payment went through yet I received an overdue notice 😡,en,English,billing,neutral,mobile_app,Riyadh,billing,364
+BF01746,C02294,خبر جيد: يا جماعة طلب الإذن للحين قيد المراجعة. شكرا، تم حل الموضوع. 😊,ar,Gulf,permits,positive,web_form,الرياض,permits,104
+BF00126,C01793,فات موعد جمع الزبالة يوم الجمعة. أخبروني.,ar,Gulf,waste,neutral,whatsapp,الرياض,waste,12
+BF03588,C00620,خبر جيد: ياخي نسيت كلمة المرور ورابط الاستعادة ما يشتغل، ومن جهة أخرى، ما أقدر رفع المستند والمحاولة تفشل دايم الله يعافيكم. تم الحل، شكرا لكم. !,ar,Gulf,account_access,positive,web_form,الرياض,account_access,171
+BF06830,C00353,بصراحة، الموقع بطيء مرة اليوم. هذا غير مقبول. !!!,ar,Gulf,digital_services,negative,whatsapp,الرياض,digital_services,273
+BF03286,C01607,Flies and a bad smell at the school entrance 😤,en,English,waste,negative,whatsapp,Riyadh,waste,161
+BF02680,C01768,"Good news: It works on my laptop but not on my phone. Thank you, it was sorted out. ....",en,English,digital_services,positive,mobile_app,Riyadh,digital_services,139
+BF07734,C00471,"Good news: It works on my laptop but not on my phone. Resolved now, thank you. !",en,English,digital_services,positive,whatsapp,Jeddah,digital_services,300
+BF11491,C02473,مرة أخرى، ما أقدر رفع المستند والمحاولة تفشل دايم، ومن جهة أخرى، ظهرت رسوم لا أعرفها في كشف الحساب ما يصير كذا جوالي 0583516734???,ar,Gulf,digital_services,neutral,web_form,الدمام,digital_services,364
+BF00702,C02016,Quick note: I was told to amend the plan and then the file was closed,en,English,billing,neutral,mobile_app,Jeddah,billing,56
+BF05235,C03177,مرة أخرى؟ عايز نسخة من إيصال السداد لشهر سبتمبر. هذه المرة الثالثة التي أبلغ فيها. 😤,ar,Egyptian,billing,negative,web_form,جدة,billing,224
+BF06583,C02590,"How long does a building approval document take to be approved? Resolved now, thank you. ! my ID 2682633616",en,English,permits,positive,web_form,Jeddah,permits,265
+BF06872,C02088,ملاحظة سريعة: أقرب تاريخ معروض بعد أكثر من 9 أسابيع. أرجو الإفادة. 🙂,ar,Egyptian,appointments,neutral,whatsapp,جدة,appointments,274
+BF00172,C01488,"Update: The container smells terrible. Also, my transport card was charged but the gate stayed closed. Thank you, it was sorted out. !",en,English,waste,positive,web_form,Jeddah,waste,17
+BF11278,C02096,تحديث: نرجو تصعيد هذا إلى المدير الموضوع يخص الخدمة. وربي. شكرا، تم حل الموضوع. 🙏 رقم هويتي 2951740936,ar,Gulf,waste,positive,web_form,الرياض,waste,364
+BF06164,C02551,The website is extremely sluggish again today 😤???,en,English,digital_services,negative,web_form,Jeddah,digital_services,252
+BF10421,C00931,سؤال: أبغى نسخة من إيصال السداد لشهر أبريل. أخبروني. 🙂!!,ar,Gulf,billing,neutral,whatsapp,جدة,billing,364
+BF00543,C00189,أظلم الشارع بعد العاصفة 😤,ar,MSA,outage,negative,web_form,جدة,outage,47
+BF07184,C03038,للتوثيق، والله طلب الترخيص للحين قيد المراجعة. شكرا مقدما.,ar,Gulf,permits,neutral,whatsapp,جدة,permits,283
+BF00592,C00775,بصراحة، بقى عايز تغيير رقم الجوال المرتبط بحسابي !!!,ar,Egyptian,account_access,negative,web_form,الرياض,account_access,49
+BF04559,C01195,الحاويات ممتلئة قرب الحديقة ما يصير كذا. هذا غير مقبول. 😤,ar,Gulf,waste,negative,whatsapp,الرياض,waste,203
+BF01659,C00122,"Honestly, The system no longer recognises my national ID. This is not acceptable. !!!",en,English,account_access,negative,web_form,Jeddah,account_access,101
+BF07961,C02460,مرة أخرى، كل ما في الثلاجة يفسد ولم يعطنا أحد موعدا. أخبروني. 🙂,ar,Egyptian,outage,neutral,web_form,جدة,outage,306
+BF05294,C00094,The route information is wrong in the app. Reporting this for the third time. 😤,en,English,transport,negative,web_form,Jeddah,transport,227
+BF06704,C01240,اختفى موعدي في الليلة السابقة. هذه المرة الثالثة التي أبلغ فيها. !!!!,ar,Gulf,appointments,negative,mobile_app,جدة,appointments,269
+BF01440,C01381,بدي تجديد رخصتي التجارية، بالإضافة إلى ذلك، تم نقلي إلى فرع آخر دون أن يسألني أحد صراحة 😤,ar,Levantine,permits,negative,mobile_app,الدمام,appointments,92
+BF09425,C01137,"Again, The request status has not changed for 5 days. Reporting this for the third time. 😞",en,English,permits,negative,mobile_app,Riyadh,permits,351
+BF09709,C00823,محبط فعلا. لم تصل الــباص منذ 47 دقيقة. أرجو إصلاح هذا. 😡,ar,MSA,transport,negative,mobile_app,جدة,transport,360
+BF09518,C00328,غير مقبول: أرجو تصعيد هذا إلى المدير. هذا غير مقبول. 😡,ar,MSA,account_access,negative,web_form,جدة,account_access,354
+BF03824,C02723,Unacceptable: The card payment went through yet I received an overdue notice. This is not acceptable. 😞,en,English,billing,negative,whatsapp,Dammam,billing,178
+BF07307,C02697,Nothing has changed since my last message. Please fix this. 😤 contact: 051 113 0732....,en,English,digital_services,negative,web_form,Jeddah,digital_services,287
+BF06373,C00499,ملاحظة سريعة: من فضلكم تأكيد حجزي يوم الجمعة، و الحاويات ممتلئة قرب الحديقة ده مش معقول. شكرا مقدما.,ar,Egyptian,appointments,neutral,whatsapp,جدة,appointments,259
+BF05393,C02690,بقى أعبئ البيانات مرتين ويعيــدني النظام إلى الصفحة الأولى ؟؟؟,ar,Egyptian,digital_services,negative,mobile_app,الدمام,digital_services,229
+BF00902,C01585,"The bus did not arrive for 49 minutes. Also, the internet connection just keeps dropping. This is not acceptable. 😞",en,English,transport,negative,whatsapp,Jeddah,transport,67
+BF09461,C01544,ملاحظة سريعة: الرد الذي وصلني لم يكن مفيدا ما يصير كذا. أخبروني. بريدي khalid.qahtani32@example.org,ar,Gulf,permits,neutral,web_form,الرياض,permits,352
+BF06435,C02577,"For the record, The bins are full to the brim near the park. Separately, our whole building lost service at 4 PM. Plaese advise.",en,English,waste,neutral,web_form,Jeddah,waste,260
+BF03249,C00236,"For the record, The earliest date offered is more than 10 weeks away",en,English,appointments,neutral,mobile_app,Riyadh,appointments,160
+BF06986,C00378, للتوثيق، لا أحد يوضح لماذا أوقف وصولي يوم الجمعة، و من فضلكم تأكيد حجزي يوم الجمعة. أرجو الإفادة!!! ,ar,MSA,account_access,neutral,web_form,جدة,account_access,278
+BF06521,C01092,Unacceptable: This is the third time I am writing about this. This is not acceptable. 😞,en,English,billing,negative,mobile_app,Riyadh,permits,263
+BF10463,C00968,نسيت كلمة المرور ورابط الاستعادة ما يشتغل، ومن جهة أخرى، طلبوا مني صورة الصك نفسها ثلاث مرات اــلله يعافيكم. تم الحل، شكرا لكم. !,ar,Gulf,account_access,positive,whatsapp,جدة,account_access,364
+BF05277,C00895,سؤال: مرت الشاحنة ليلا وتجاوزت زقاقنا,ar,MSA,waste,neutral,whatsapp,الدمام,waste,226
+BF01924,C00543,غير مقبول: لا أستطيع رفع المستند والمحاولة تفشل دائما. أرجو إصلاح هذا. !!!,ar,MSA,digital_services,negative,whatsapp,الرياض,digital_services,111
+BF04015,C03037,Quick note: Nobody has contacted me about my request. Let me know. my ID 1103964026,en,English,permits,neutral,web_form,Dammam,permits,184
+BF09109,C01157,للتوثيق، أرجو إرسال شاحنة لإزالة مخلفات البناء. أرجو الإفادة. 🙂,ar,Levantine,waste,neutral,web_form,الرياض,waste,342
+BF00254,C02491,غير مقبول: والنبي نرجو النظر في حالتي. أرجو إصلاح هذا. ؟؟؟ جوالي 050 695 7853,ar,Egyptian,digital_services,negative,web_form,جدة,digital_services,25
+BF05180,C01116,Again? My appointment was cancelled without notice. And the inspector visited Al Naeem and I have heard nothing since 😡,en,English,appointments,negative,web_form,Jeddah,appointments,223
+BF08385,C00802,أرجو النظر في حالتي الموضوع يخص الموعد. 🙂,ar,Egyptian,appointments,neutral,mobile_app,الرياض,appointments,320
+BF05127,C01687,مرة أخرى؟ كل ما في الثلاجة يفسد ولم يعــطنا أحد موعدا !!!,ar,Gulf,outage,negative,whatsapp,الرياض,outage,221
+BF01038,C01645,"FYI, There is a charge on my statement that I do not recognise 🙂",en,English,billing,neutral,mobile_app,Riyadh,billing,74
+BF11056,C01788,I can't log in to my account. Reporting this for the third time. 😡,en,English,account_access,negative,web_form,Jeddah,account_access,364
+BF07548,C02335, A repair crew came but left without fixing it 😡 ,en,English,outage,negative,web_form,Dammam,outage,294
+BF11789,C02920,غير مقبول: تم الدفع بالبطاقة ومع ذلك وصلني إشعار تأخـــير 😡???,ar,Gulf,billing,negative,whatsapp,الرياض,billing,364
+BF11592,C02611,Still waiting for a reply. Reporting this for the third time. 😤,en,English,billing,negative,mobile_app,Jeddah,billing,364
+BF09510,C02851,ملاحظة  سريعة: بقى انتظرت 5 ساعات رغم أن لدي وقتا محددا، وأيضا حالة الطلب لم تتغير من 5 أيام ده مش معقول. أرجو الإفادة.,ar,Egyptian,appointments,neutral,whatsapp,الرياض,appointments,353
+BF11178,C01983,ملاحظة سريعة: تم إلغاء الموعد دون إشعار يا ريت تتصرفوا,ar,Levantine,appointments,neutral,mobile_app,الرياض,appointments,364
+BF06200,C02717, يا جماعة آخر رحلة في المساء لا تأتي أبد الله يعافيكم. تم الحل، شكرا لكم. 😊 ,ar,Gulf,transport,positive,web_form,الدمام,transport,253
+BF06323,C01449,Again? Why did the December bill go up so much? Please fix this. 😤,en,English,billing,negative,mobile_app,Riyadh,billing,257
+BF05208,C00264,Unacceptable:  The internet connection keeps dropping !!!,en,English,outage,negative,mobile_app,Jeddah,outage,224
+BF07556,C02872,"Honestly, I need to reschedule my appointment on Wednesday. Separately, I need to change the mobile number linked to my account 😡 call me on 0578182861",en,English,appointments,negative,mobile_app,Riyadh,appointments,294
+BF11454,C02385,"For the record, After the latest update the buttons do not respond. Thanks in advance.",en,English,digital_services,neutral,web_form,Riyadh,digital_services,364
+BF06881,C00063,Unacceptable:  They kept me waiting 6 hours even though I had a fixed time. Please fix this. 😡,en,English,appointments,negative,mobile_app,Riyadh,appointments,275
+BF00792,C01764,يا أخي يرفض المرفق لأنه كبير مع أنه لا يتجاوز 42 ميغابايت. كل شيء تمام الآن، شكرا. 👍,ar,Levantine,digital_services,positive,web_form,جدة,digital_services,61
+BF05466,C00037,للعلم، لم يتم جمع الزبالة اليوم,ar,MSA,waste,neutral,mobile_app,جدة,waste,232
+BF04136,C01209,Quick note: My slot disappeared the night before. Let me know.,en,English,appointments,neutral,whatsapp,Jeddah,appointments,189
+BF08567,C01964,Question: Still waiting for a reply. Let me know. 🙂 contact: 050-012-7045,en,English,account_access,neutral,whatsapp,Dammam,appointments,326
+BF04402,C02419,UNACCEPTABLE: MY TRANSPORT CARD WAS CHARGED BUT THE GATE STAYED CLOSED. PLEASE FIX THIS. 😡!!,en,English,transport,negative,web_form,Jeddah,transport,198
+BF01998,C02949,متابعة: فاتني الاتصال لأن الجدول المعروض قـــديم,ar,MSA,transport,neutral,whatsapp,جدة,appointments,113
+BF08911,C00561,محبط فعلا. أريد نسخة من إيصال السداد لشهر أغسطس !!!,ar,MSA,billing,negative,mobile_app,الدمام,billing,337
+BF11746,C02874,I need help with my request. This is not acceptable. 😞,en,English,digital_services,negative,web_form,Jeddah,digital_services,364
+BF03209,C02006,"For the record, Power went out again in As Sulaimaniyah. Separately, the bins are spilling over near the park",en,English,outage,neutral,web_form,Riyadh,outage,158
+BF07534,C00586,Really frustrated. We had to order a tanker because the taps are dry. This is not acceptable. 😞 email me at ali.dosari1@mail.example.sa,en,English,outage,negative,mobile_app,Dammam,outage,294
+BF02685,C02173,مرة أخرى، أقرب تاريخ معروض بعد أكثر من 5 أسابيع. شكرا، تم حل الموضوع. 🙏,ar,Gulf,appointments,neutral,mobile_app,جدة,appointments,139
+BF08973,C02967, يا أخي يعمل على الحاسوب وما بيشتغل على الجوال، ومن جهة أخرى، يقول إن بياناتي خاطئة وأنا متأكد أنني كتبتها صحيحة يا ريت تتصرفوا. هذا غير مقبول. 😡 تواصلوا معي على 0527825876 ,ar,Levantine,digital_services,negative,web_form,جدة,digital_services,338
+BF07575,C02150,محبط  فعلا. لا أستطيع رفع المستند والمحاولة تفشل دائما. هذا غير مقبول. 😞,ar,MSA,digital_services,negative,web_form,الرياض,digital_services,295
+BF11999,C03194,الأضواء  تهتز كل مساء قرابة اـلرابعة عصرا وربي. كل شيء تمام الآن، شكرا. 🙏,ar,Gulf,outage,positive,mobile_app,الرياض,outage,364
+BF07578,C02283,"Again, They kept me waitnig 9 hours even though I had a fixed time",en,English,appointments,neutral,whatsapp,Riyadh,appointments,295
+BF10887,C01533,The total on my statement does not match what the clerk quoted my number 0598258678,en,English,billing,neutral,whatsapp,Riyadh,billing,364
+BF06079,C00087,"Good news: It says my details are wrong but I am sure I typed them correctly. Resolved now, thank you. !",en,English,account_access,positive,whatsapp,Dammam,account_access,250
+BF04028,C00798,تذكير: طلب الترخيص ما زال قيد المراجعة,ar,MSA,permits,neutral,whatsapp,الرياض,permits,185
+BF04066,C03019,Really frustrated. The last service of the evening never comes !!!,en,English,transport,negative,web_form,Dammam,transport,186
+BF08322,C02086,يا أخي القطط تمزق الأكياس لأن الحاوية ممتلئة صراحة. هذا غير مقبول. 😤,ar,Levantine,waste,negative,web_form,جدة,waste,318
+BF09854,C00021,غير مقبول: أرجو تأكيد حجزي يوم الأحد 😞,ar,MSA,appointments,negative,web_form,الرياض,appointments,364
+BF09811,C01254,الرخصة تنتهي الشهر القادم ولا شيء يتحرك. هذه المرة الثالثة التي أبلغ فيها. 😤!!,ar,Gulf,permits,negative,mobile_app,جدة,permits,363
+BF09469,C02256,"Our whole building lost service at 10:30 AM. All good now, thanks. 🙏",en,English,outage,positive,whatsapp,Riyadh,waste,352
+BF11557,C02546,خبر جيد: والله الموقع بطيء للغاية هذا الصباح. أقدر سرعة المساعدة! 👍 بريدي fahad.alharbi33@example.org,ar,Gulf,digital_services,positive,whatsapp,الدمام,digital_services,364
+BF04125,C00243,"Good news: I changed my phone and now I cannot get into anything. Separately, I filled everything in twice and it still sends me back to the first page. Resolved now, thank you. 😊",en,English,appointments,positive,web_form,Riyadh,account_access,189
+BF08674,C00125,Reminder: I need to reschedule my booking slot on Monday. This is not acceptable. 😤,en,English,appointments,negative,mobile_app,Jeddah,appointments,330
+BF01969,C02720,"Update: Bags have been piled at the corner since Wednesday. And everything in the fridge is spoiling and nobody has given us a time. Thank you, it was sorted out. 🙏 my number 0524961262",en,English,waste,neutral,whatsapp,Riyadh,waste,112
+BF08269,C03188,"Still waiting for a reply. Resolved now, thank you. 🙏",en,English,permits,positive,mobile_app,Riyadh,appointments,316
+BF01727,C02760,يا جماعة ما فيه مواعيد متاحة هذا الأسبوع 😤,ar,Gulf,appointments,negative,web_form,الرياض,appointments,103
+BF03652,C00391,"Error code E-4004 appears on the screen. Also, my money back of SAR 200 has not arrived after 3 days. Please fix this. 😡....",en,English,digital_services,negative,mobile_app,Riyadh,digital_services,173
+BF10480,C01010,ليش يستغرق هذا وقتا طويلا؟ الموضوع يخص النظام. يا ريت تتصرفوا. هذه المرة الثالثة التي أبلغ فيها. 😡,ar,Levantine,digital_services,neutral,mobile_app,الرياض,digital_services,364
+BF04825,C01508,"Again, The street went dark after the storm 😤",en,English,outage,negative,web_form,Jeddah,outage,212
+BF06442,C02880,Please send a truck to remove the construction debris. Please fix this. 😡,en,English,waste,negative,mobile_app,Jeddah,waste,260
+BF00326,C02543,هذه المرة الثالثة التي أكتب فيها عن هذا. هذه المرة الثالثة التي أبلغ فيها. 😞,ar,Gulf,account_access,negative,mobile_app,الدمام,account_access,31
+BF03175,C02329,"Good news: The metro train was running late again. All good now, thanks. 😊 call me on 0543279259",en,English,transport,positive,mobile_app,Dammam,transport,157
+BF10190,C00559,"Honestly, There has been no electricity in Al Naeem since the morning !!! email me at maha.qahtani31@mail.example.sa",en,English,outage,negative,web_form,Jeddah,outage,364
+BF08482,C03147,ملاحظة سريعة: الرقم المرجعي غير موجود عند المتابعة 🙂,ar,Gulf,permits,neutral,whatsapp,الرياض,permits,323
+BF04998,C00412,Unacceptable: Stray cats are tearing open the rubbish because the bin is full. And we had to order a tanker because the taps are dry. This is not acceptable. 😤,en,English,waste,negative,mobile_app,Riyadh,waste,218
+BF03751,C00849,"FYI, I was moved to another branch without being asked. Let me know.",en,English,appointments,neutral,whatsapp,Riyadh,appointments,176
+BF07423,C01150,طلبوا مني صورة الصك نفسها ثلاث مرات 😞....,ar,MSA,permits,negative,whatsapp,الرياض,permits,291
+BF10184,C00549, Still waiting for a reply. This is not acceptable. 😤 ,en,English,billing,negative,mobile_app,Dammam,billing,364
+BF05271,C00237,Reminder:  There is no shelter at the stop 😡,en,English,transport,negative,web_form,Jeddah,transport,226
+BF09657,C01080,"For the record, The route information is wrong in the app. Thanks in advance.",en,English,transport,neutral,mobile_app,Riyadh,transport,358
+BF01714,C01205,"I was sent from one department to another. Thank you, it was sorted out. !",en,English,transport,positive,web_form,Riyadh,transport,103
+BF02526,C01557,Really frustrated. My transport card was billed but the gate stayed closed !!!,en,English,appointments,positive,mobile_app,Jeddah,transport,134
+BF09468,C02185,مرة أخرى، انتظرت ٥ ساعات رغم أن لدي وقتا محددا، بالإضافة إلى ذلك، كم يستغرق اعتماد رخصة البناء؟ الله يعافيكم. تم الحل، شكرا لكم. 🙏 بريدي lina٢٥@example.org,ar,Gulf,appointments,positive,whatsapp,الرياض,appointments,352
+BF04657,C00951,"Our whole building lost service at 10:30 AM. On top of that, the bins are spilling over near the park. Please fix this. 😤",en,English,outage,negative,whatsapp,Jeddah,outage,207
+BF03285,C01536,"FYI, Please explain the extra fees on my invoice. Please advise. 🙂",en,English,billing,neutral,whatsapp,Dammam,billing,161
+BF00078,C02224,Really frustrated. We had to order a tanker because the taps are dry. And after the latest udpate the buttons do not respond. This is not acceptable. 😞 call me on 0510191352,en,English,outage,negative,mobile_app,Dammam,outage,8
+BF08559,C01218,للتوثيق، لم تكن هناك مقاعد فبقينا واقفين طوال الطريق، بالإضافة إلى ذلك، الأكياس متراكمة عند الزاوية منذ الجمعة. أخبروني.,ar,MSA,transport,neutral,whatsapp,الرياض,transport,326
+BF06432,C02285,خبر جيد: يا جماعة يقول إن بياناتي خاطئة وأنا متأكد أنني كتبتها صحيحة. تم الحل، شكرا لكم. !,ar,Egyptian,appointments,positive,web_form,الرياض,account_access,260
+BF04096,C00190,تحديث: عـــايز تغيير رقم الجوال المرتبط بحسابي ده مش معقول. تم الحل، شكرا لكم. 👍,ar,Egyptian,account_access,positive,whatsapp,جدة,account_access,188
+BF08241,C00274,"FYI, The street was cleaned today. Let me know.",en,English,waste,neutral,mobile_app,Riyadh,waste,316
+BF10058,C00356,للتوثيق، يا أخي من فضلكم تأكيد حجزي يوم السبت صراحة,ar,Levantine,appointments,neutral,mobile_app,الرياض,appointments,364
+BF03505,C01744,Unacceptable: The water has been cut off for 5 hours. Reporting this for the third time. 😤,en,English,outage,negative,whatsapp,Jeddah,outage,168
+BF09024,C00619,I cannot book a slot at the service centre. And I need to change the mobile number linked to my account 😤,en,English,appointments,negative,mobile_app,Riyadh,appointments,340
+BF03629,C01374,"Again? The sweepers have not been through Al Yasmin for weeks. On top of that, my transport card was charged but the gate stayed closed !!!",en,English,waste,negative,whatsapp,Riyadh,waste,172
+BF07468,C01672,Reminder: The confirmation never appears so I do not know if it went through. This is not acceptable. 😡,en,English,digital_services,negative,mobile_app,Jeddah,digital_services,292
+BF01817,C00929,خبر جيد: الحاويات ممتلئة قرب الحديقة. أقدر سرعة المساعدة! ! رقم هويتي 2754195701,ar,MSA,waste,positive,web_form,الرياض,waste,107
+BF04130,C00726,تحديث: يجب أن يتحمل أحد المسؤولية. تم الحل، شكرا لكم. 👍,ar,Gulf,appointments,positive,mobile_app,الرياض,appointments,189
+BF09746,C01309,لا أستطيع تسجيل الدخول إلى حسابي 😤!!!,ar,MSA,account_access,negative,web_form,جدة,account_access,361
+BF11886,C03042,"Reminder: Bags have been piled at the corner since Saturday. Thank you, it was sorted out. 😊",en,English,waste,positive,web_form,Dammam,transport,364
+BF08366,C02978,مرة أخرى، أعبئ البيانات مرتين ويعيدني النظام إلى الصفحة الأولى، ومن جهة أخرى، أحتاج توضيح الرسوم الإضافية في القيد وربي. هذه المرة الثالثة التي أبلغ فيها. ؟؟؟,ar,Gulf,digital_services,negative,whatsapp,جدة,billing,319
+BF00612,C01803,ملاحظة سريعة: لا أستطيع رفع المستند والمحاولة تفشل دائما، ومن جهة أخرى، فتحت الرابط من البريد وقال إنه منتهي,ar,MSA,digital_services,neutral,web_form,الرياض,digital_services,50
+BF08579,C00140,سؤال: بدي تغيير موعدي يوم السبت. أرجو الإفادة....,ar,Levantine,appointments,negative,whatsapp,الرياض,appointments,327
+BF04140,C01559,للتوثيق، آخر رحلة في المساء لا تأتي أبدا يا ريت تتصرفوا,ar,Levantine,transport,neutral,mobile_app,الدمام,transport,189
+BF06132,C03055,"Reminder: How long does a building permit take to be approved?. Separately, the card payment went through yet I received an overdue notice. Thanks in advance. call me on 0572154732",en,English,permits,neutral,web_form,Dammam,permits,251
+BF08752,C01038,Unacceptable: The metro train was delayed again. And I cannot book a slot at the clinic 😤,en,English,transport,negative,mobile_app,Riyadh,transport,332
+BF00041,C01238,ملاحظةةة سريعة: يا جماعة مفيش مواعيد متاحة هذا الأسبوع 🙂,ar,Egyptian,appointments,neutral,web_form,الرياض,appointments,5
+BF04248,C01446,سؤال: ما مر عمال النظافة على حي النرجس من أسابيع ما يصير كذا,ar,Gulf,waste,neutral,mobile_app,الرياض,waste,193
+BF08270,C00022,"FYI, I changed my phone and now I cannot get into anything",en,English,account_access,neutral,web_form,Dammam,account_access,317
+BF08565,C01867,Quick note: The app crashes every time I open it 🙂,en,English,digital_services,positive,web_form,Jeddah,digital_services,326
+BF06195,C02370,"I can't log in to my account. On top of that, the earliest date offered is more than 10 weeks away. Please fix this. 😤",en,English,account_access,negative,whatsapp,Riyadh,digital_services,253
+BF01884,C02372,Question: Please escalate this to a manager. Please advise.,en,English,appointments,neutral,whatsapp,Jeddah,appointments,109
+BF09370,C02139,"Good news: The total on my statement does not match what the clerk quoted. Thank you, it was sorted out. 👍",en,English,billing,positive,web_form,Riyadh,billing,349
+BF00260,C00746,"Really frustrated. The lights flicker every evening around 1 PM. Separately, I paid at the bank and nothing was recorded against my file. Please fix this. 😤",en,English,outage,negative,web_form,Jeddah,outage,26
+BF06919,C01332,مرة أخرى؟ انقطع التيار مرة ثانية في حي السلامة، بالإضافة إلى ذلك، من فضلكم إرسال شاحنة لإزالة مخلفات البناء. هذه المرة الثالثة التي أبلغ فيها. ؟؟؟,ar,Gulf,outage,negative,mobile_app,جدة,outage,276
+BF00969,C02547,للتوثيق، جاء فريق الإصلاح وغادر دون إصلاح ما يــصير كذا. أخبروني. 🙂,ar,Gulf,outage,neutral,whatsapp,الدمام,outage,70
+BF00243,C02453,"Good news: There are no available appointments this week. Thank you, it was sorted out. 👍",en,English,appointments,positive,mobile_app,Riyadh,appointments,24
+BF07854,C01877,Please escalate this to a manager It is about the amount. 😞,en,English,billing,negative,whatsapp,Riyadh,billing,303
+BF11142,C01927,Unacceptable: The attachment is rejected as too large although it is only 6 MB. Reporting this for the third time. 😞,en,English,digital_services,positive,whatsapp,Jeddah,digital_services,364
+BF00129,C02619,Unacceptable: Still waiting for a reply. Please fix this. 😞,en,English,appointments,negative,web_form,Jeddah,appointments,12
+BF07993,C03101,Unacceptable: My appointment was cancelled without notice. Reporting this for the third time. 😤,en,English,appointments,negative,mobile_app,Jeddah,appointments,307
+BF00469,C00037,للتوثيق، الأكياس متراكمة عند الزاوية منذ الجمعة. شكرا مقدما. 🙂,ar,MSA,waste,positive,mobile_app,جدة,waste,42
+BF02400,C02101,"Update:  I cannot log in to my account. Also, the page freezes at the final step. Thank you, it was sorted out. ! contact: 0583029047",en,English,account_access,positive,mobile_app,Riyadh,account_access,129
+BF10467,C00989,"Again, My deposit was due back last May and I am still waiting !!!",en,English,billing,negative,mobile_app,Dammam,billing,364
+BF01986,C01500,محبط فعلا. والنبي فاتني الاتصال لأن الجدول المعروض قديم، و انقطعت المياه من 5 ساعات !!!,ar,Egyptian,transport,negative,mobile_app,الدمام,transport,113
+BF03989,C00387,تذكير: الرخصة تنتهي الشهر القادم ولا شيء يتحرك، وأيضا يرفض المرفق لأنه كبير مع أنه لا يتجاوز 45 ميغابايت. هذه المرة الثالثة التي أبلغ فيها. 😤,ar,Gulf,permits,negative,whatsapp,الرياض,permits,184
+BF01663,C01008,Again?  I was sent from one department to another. Please fix this. !!!,en,English,account_access,negative,mobile_app,Jeddah,account_access,101
+BF05172,C02948,محبط فعلا. يرفض المرفق لأنه كبير مع أنه لا يتجاوز 40 ميغابايت. أرجو إصلاح هذا. ؟؟؟,ar,Gulf,digital_services,negative,web_form,جدة,digital_services,222
+BF08463,C01318,للتوثيق، أظلم الشارع بعد العاصفة. أخبروني.,ar,Gulf,outage,neutral,mobile_app,جدة,outage,323
+BF08918,C01274,"The confirmation never appears so I do not know if it went through. Also, I forgot my password and the reset link does not work. Appreciate the quick help! 🙏",en,English,digital_services,positive,web_form,Dammam,digital_services,337
+BF02216,C01101,QUICK NOTE: STILL WAITING FOR A REPLY 🙂,en,English,appointments,neutral,mobile_app,Jeddah,account_access,123
+BF10505,C01034,"Reminder: The earliest date offered is more than 5 weeks away. Thank you, it was sorted out. 👍",en,English,appointments,positive,whatsapp,Riyadh,appointments,364
+BF02949,C00131,"Good news: The licence expires next month and nothing is moving. On top of that, the earliest date offered is more than 8 weeks away. Resolved now, thank you. 😊",en,English,permits,positive,web_form,Jeddah,permits,149
