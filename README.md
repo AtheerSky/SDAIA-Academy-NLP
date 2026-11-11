@@ -116,4 +116,4 @@ Several improvements can extend Bayan's capabilities:
 ## 9. SDAIA Academy
 This project is part of the Applied Natural Language Processing program at [SDAIA Academy](https://github.com/SDAIAAcademy)
 <img width="411" height="310" alt="بيان2" src="https://github.com/user-attachments/assets/0a44bba0-e01b-4b31-8b45-28f0a0b6ddee" />
-<img width="450" height="291" alt="بيان1" src="https://github.com/user-attachments/assets/70bed9ed-fa1f-4c26-ae86-91b432d25288" />
+<img width="411" height="310" alt="بيان1" src="https://github.com/user-attachments/assets/70bed9ed-fa1f-4c26-ae86-91b432d25288" />
