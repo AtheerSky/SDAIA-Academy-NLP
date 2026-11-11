@@ -93,5 +93,27 @@ A frozen test set will be kept separate from model development and used only for
 | FAISS | Similarity search |
 | FastAPI
 
+## 7. How to Run the Project
+
+### Requirements
+- Python installed.
+- Required datasets and model files available.
+- Saved FAISS index and model artifacts available.
+
+
+
+## 8. Future Improvements
+Several improvements can extend Bayan's capabilities:
+
+- **Dialect Awareness:** Improve understanding of Gulf Arabic and other Arabic dialects.
+- **Batch Processing:** Analyze multiple complaints in one request.
+- **Question Answering:** Allow users to ask questions about existing complaint documents.
+- **Improved Semantic Search:** Introduce a two-stage retrieval and re-ranking process.
+- **Model Optimization:** Explore quantization and other optimization techniques while monitoring their effect on accuracy.
+- **Better Multilingual Support:** Improve performance across Arabic and English.
+- **Continuous Evaluation:** Monitor model performance and identify errors across different languages, dialects, and complaint categories.
+
+## 9. SDAIA Academy
+This project is part of the Applied Natural Language Processing program at [SDAIA Academy](https://github.com/SDAIAAcademy)
 <img width="411" height="310" alt="بيان2" src="https://github.com/user-attachments/assets/0a44bba0-e01b-4b31-8b45-28f0a0b6ddee" />
 <img width="450" height="291" alt="بيان1" src="https://github.com/user-attachments/assets/70bed9ed-fa1f-4c26-ae86-91b432d25288" />
